@@ -20,11 +20,6 @@ logs/
 *.http
 test*.sh
 
-app_config
-req_response
-website
-start
-router_and_middleware
 
 # macos
 .DS_Store
